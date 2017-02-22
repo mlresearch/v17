@@ -12,15 +12,18 @@ abstract: Virtual teaching is constantly growing and, with it, the necessity of 
   making through the ElWM tool.
 pdf: "./garcia-saiz11a/garcia-saiz11a.pdf"
 layout: inproceedings
-key: garcia-saiz11a
+id: garcia-saiz11a
 month: 0
 firstpage: 26
 lastpage: 32
+page: 26-32
 origpdf: http://jmlr.org/proceedings/papers/v17/garcia-saiz11a/garcia-saiz11a.pdf
 sections: 
-authors:
+author:
 - given: Diego
   family: Garcia-Saiz
 - given: Marta
   family: Zorrilla
+date: '2011-10-21 00:00:26'
+publisher: PMLR
 ---

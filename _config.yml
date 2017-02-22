@@ -18,11 +18,11 @@ sections:
 - name: default
   title: Accepted Papers
 layout: proceedings
-key: FIXME-YYYY
+id: FIXME-YYYY
 abstract: 
 origpdf: 
 pdf: "./FIXME-YYYY/FIXME-YYYY.pdf"
-editors:
+editor:
 - given: Tom
   family: Diethe
 - given: Jose
