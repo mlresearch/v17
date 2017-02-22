@@ -1,0 +1,30 @@
+---
+title: Streaming Multi-label Classification
+abstract: This paper presents a new experimental framework for studying multi-label
+  evolving stream classification, with efficient methods that combine the best practices
+  in streaming scenarios with the best practices in multi-label classification. Many
+  real world problems involve data which can be considered as multi-label data streams.
+  Efficient methods exist for multi-label classification in non streaming scenarios.
+  However, learning in evolving streaming scenarios is more challenging, as the learners
+  must be able to adapt to change using limited time and memory. We present a new
+  experimental software that extends the MOA framework. Massive Online Analysis (MOA)
+  is a software environment for implementing algorithms and running experiments for
+  online learning from evolving data streams. It is released under the GNU GPL license.
+pdf: "./read11a/read11a.pdf"
+layout: inproceedings
+key: read11a
+month: 0
+firstpage: 19
+lastpage: 25
+origpdf: http://jmlr.org/proceedings/papers/v17/read11a/read11a.pdf
+sections: 
+authors:
+- given: Jesse
+  family: Read
+- given: Albert
+  family: Bifet
+- given: Geoff
+  family: Holmes
+- given: Bernhard
+  family: Pfahringer
+---

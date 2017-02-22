@@ -1,0 +1,41 @@
+# Site settings
+# Auto generated from v17.bib
+---
+booktitle: Proceedings of the Second Workshop on Applications of Pattern Analysis
+publisher: JMLR Workshop and Conference Proceedings
+address: CIEM, Castro Urdiales, Spain
+month: 0
+logoright: basic_files/logo.png
+volume: 17
+year: '2011'
+shortname: 2nd Workshop on Applications of Pattern Analysis
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+key: FIXME-YYYY
+abstract: 
+origpdf: 
+pdf: "./FIXME-YYYY/FIXME-YYYY.pdf"
+editors:
+- given: Tom
+  family: Diethe
+- given: Jose
+  family: Balcazar
+- given: John
+  family: Shawe-Taylor
+- given: Cristina
+  family: Tirnauca
+title: Proceedings of the Second Workshop on Applications of Pattern Analysis
+conference: Proceedings of the Second Workshop on Applications of Pattern Analysis
+email: ''
+description: Proceedings of the Second Workshop on Applications of Pattern Analysis,
+  CIEM, Castro Urdiales, Spain
+url: http://proceedings.mlr.press
+baseurl: "/v17"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
