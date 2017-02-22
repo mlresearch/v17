@@ -1,0 +1,31 @@
+---
+title: MOA Concept Drift Active Learning Strategies for Streaming Data
+abstract: We present a framework for active learning on evolving data streams, as
+  an extension to the MOA system. In learning to classify streaming data, obtaining
+  the true labels may require major effort and may incur excessive cost. Active learning
+  focuses on learning an accurate model with as few labels as possible. Streaming
+  data poses additional challenges for active learning, since the data distribution
+  may change over time (concept drift) and classifiers need to adapt. Conventional
+  active learning strategies concentrate on querying the most uncertain instances,
+  which are typically concentrated around the decision boundary. If changes do not
+  occur close to the boundary, they will be missed and classifiers will fail to adapt.
+  We propose a software system that implements active learning strategies, extending
+  the MOA framework. This software is released under the GNU GPL license.
+pdf: "./zliobaite11a/zliobaite11a.pdf"
+layout: inproceedings
+key: zliobaite11a
+month: 0
+firstpage: 48
+lastpage: 55
+origpdf: http://jmlr.org/proceedings/papers/v17/zliobaite11a/zliobaite11a.pdf
+sections: 
+authors:
+- given: Indre
+  family: Zliobaite
+- given: Albert
+  family: Bifet
+- given: Geoff
+  family: Holmes
+- given: Bernhard
+  family: Pfahringer
+---
