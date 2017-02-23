@@ -5,7 +5,7 @@ abstract: In this paper we present new probabilistic ranking functions for conte
   on the predictive densities of generative probabilistic models modelling the density
   of image features. We evaluate the proposed methodology and compare it against two
   state of the art image retrieval systems using a well known image collection.
-pdf: http://jmlr.org/proceedings/papers/v17/stathopoulos11a/stathopoulos11a.pdf
+pdf: http://proceedings.mlr.press/v17/stathopoulos11a/stathopoulos11a.pdf
 layout: inproceedings
 id: stathopoulos11a
 month: 0
@@ -18,7 +18,6 @@ author:
   family: Stathopoulos
 - given: Joemon M.
   family: Jose
-reponame: v17
 date: 2011-10-21
 address: CIEM, Castro Urdiales, Spain
 publisher: PMLR

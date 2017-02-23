@@ -10,7 +10,7 @@ abstract: Virtual teaching is constantly growing and, with it, the necessity of 
   datasets and propose a meta-algorithm to preprocess the datasets and improve the
   accuracy of the model, which will be used by virtual instructors for their decision
   making through the ElWM tool.
-pdf: http://jmlr.org/proceedings/papers/v17/garcia-saiz11a/garcia-saiz11a.pdf
+pdf: http://proceedings.mlr.press/v17/garcia-saiz11a/garcia-saiz11a.pdf
 layout: inproceedings
 id: garcia-saiz11a
 month: 0
@@ -23,7 +23,6 @@ author:
   family: Garcia-Saiz
 - given: Marta
   family: Zorrilla
-reponame: v17
 date: 2011-10-21
 address: CIEM, Castro Urdiales, Spain
 publisher: PMLR
