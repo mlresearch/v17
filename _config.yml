@@ -3,7 +3,6 @@
 ---
 booktitle: Proceedings of the Second Workshop on Applications of Pattern Analysis
 publisher: JMLR Workshop and Conference Proceedings
-address: CIEM, Castro Urdiales, Spain
 month: 0
 logoright: basic_files/logo.png
 volume: 17
@@ -19,9 +18,9 @@ sections:
   title: Accepted Papers
 layout: proceedings
 id: FIXME-YYYY
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./FIXME-YYYY/FIXME-YYYY.pdf"
+pdf: http://proceedings.pmlr.press/FIXME-YYYY/FIXME-YYYY.pdf
 editor:
 - given: Tom
   family: Diethe
@@ -32,7 +31,6 @@ editor:
 - given: Cristina
   family: Tirnauca
 title: Proceedings of the Second Workshop on Applications of Pattern Analysis
-conference: Proceedings of the Second Workshop on Applications of Pattern Analysis
 email: ''
 description: Proceedings of the Second Workshop on Applications of Pattern Analysis,
   CIEM, Castro Urdiales, Spain
@@ -42,8 +40,17 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v17
+conference:
+  name: 
+  url: 
+  location: CIEM, Castro Urdiales, Spain
+  dates:
+  - 2011-10-19
+  - 2011-10-20
+  - 2011-10-21
 analytics:
   google:
     tracking_id: UA-92432422-1

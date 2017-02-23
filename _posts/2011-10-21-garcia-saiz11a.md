@@ -10,7 +10,7 @@ abstract: Virtual teaching is constantly growing and, with it, the necessity of 
   datasets and propose a meta-algorithm to preprocess the datasets and improve the
   accuracy of the model, which will be used by virtual instructors for their decision
   making through the ElWM tool.
-pdf: "./garcia-saiz11a/garcia-saiz11a.pdf"
+pdf: http://proceedings.pmlr.press/garcia-saiz11a/garcia-saiz11a.pdf
 layout: inproceedings
 id: garcia-saiz11a
 month: 0
@@ -24,6 +24,15 @@ author:
   family: Garcia-Saiz
 - given: Marta
   family: Zorrilla
-date: '2011-10-21 00:00:26'
+date: 2011-10-21
 publisher: PMLR
+container-title: Proceedings of the Second Workshop on Applications of Pattern Analysis
+volume: '17'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2011
+  - 10
+  - 21
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
