@@ -20,6 +20,7 @@ author:
 - given: Joemon M.
   family: Jose
 date: 2011-10-21
+address: CIEM, Castro Urdiales, Spain
 publisher: PMLR
 container-title: Proceedings of the Second Workshop on Applications of Pattern Analysis
 volume: '17'
