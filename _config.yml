@@ -19,8 +19,6 @@ sections:
 layout: proceedings
 id: FIXME-YYYY
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/FIXME-YYYY/FIXME-YYYY.pdf
 editor:
 - given: Tom
   family: Diethe
