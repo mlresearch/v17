@@ -7,6 +7,7 @@ abstract: In this paper we present new probabilistic ranking functions for conte
   state of the art image retrieval systems using a well known image collection.
 pdf: http://proceedings.mlr.press/v17/stathopoulos11a/stathopoulos11a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: stathopoulos11a
 month: 0
 firstpage: 41

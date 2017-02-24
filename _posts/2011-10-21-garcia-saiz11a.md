@@ -12,6 +12,7 @@ abstract: Virtual teaching is constantly growing and, with it, the necessity of 
   making through the ElWM tool.
 pdf: http://proceedings.mlr.press/v17/garcia-saiz11a/garcia-saiz11a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: garcia-saiz11a
 month: 0
 firstpage: 26
