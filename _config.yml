@@ -27,10 +27,21 @@ editor:
   family: Shawe-Taylor
 - given: Cristina
   family: Tirnauca
-title: Proceedings of the Second Workshop on Applications of Pattern Analysis
-email: ''
-description: Proceedings of the Second Workshop on Applications of Pattern Analysis,
-  CIEM, Castro Urdiales, Spain
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Second Workshop on Applications of Pattern Analysis
+    Held in CIEM, Castro Urdiales, Spain on 19-21 October 2011
+
+  Published as Volume 17 by the Proceedings of Machine Learning Research on 21 October 2011.
+
+  Volume Edited by:
+    Tom Diethe
+    Jose Balcazar
+    John Shawe-Taylor
+    Cristina Tirnauca
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v17"
 twitter_username: mlresearch
@@ -40,6 +51,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v17
+email: ''
 conference:
   name: Proceedings of the Second Workshop on Applications of Pattern Analysis
   url: 
