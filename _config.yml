@@ -18,6 +18,8 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: FIXME-YYYY
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Tom
   family: Diethe
@@ -27,7 +29,6 @@ editor:
   family: Shawe-Taylor
 - given: Cristina
   family: Tirnauca
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Second Workshop on Applications of Pattern Analysis
     Held in CIEM, Castro Urdiales, Spain on 19-21 October 2011

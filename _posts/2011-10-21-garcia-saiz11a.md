@@ -1,5 +1,5 @@
 ---
-title: Comparing classification methods for predicting distance students' performance
+title: Comparing classification methods for predicting distance students’ performance
 abstract: Virtual teaching is constantly growing and, with it, the necessity of instructors
   to predict the performance of their students. In response to this necessity, different
   machine learning techniques can be used. Although there are so many benchmarks comparing
@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: garcia-saiz11a
 month: 0
+tex_title: Comparing classification methods for predicting distance students' performance
 firstpage: 26
 lastpage: 32
 page: 26-32

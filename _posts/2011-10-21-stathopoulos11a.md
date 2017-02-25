@@ -10,6 +10,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: stathopoulos11a
 month: 0
+tex_title: Bayesian Probabilistic Models for Image Retrieval
 firstpage: 41
 lastpage: 47
 page: 41-47
