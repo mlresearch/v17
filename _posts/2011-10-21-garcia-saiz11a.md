@@ -19,7 +19,8 @@ tex_title: Comparing classification methods for predicting distance students' pe
 firstpage: 26
 lastpage: 32
 page: 26-32
-sections: 
+order: 26
+cycles: false
 author:
 - given: Diego
   family: Garcia-Saiz

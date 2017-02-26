@@ -14,7 +14,8 @@ tex_title: Bayesian Probabilistic Models for Image Retrieval
 firstpage: 41
 lastpage: 47
 page: 41-47
-sections: 
+order: 41
+cycles: false
 author:
 - given: Vassilios
   family: Stathopoulos
