@@ -17,9 +17,6 @@ sections:
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: FIXME-YYYY
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Tom
@@ -30,6 +27,7 @@ editor:
   family: Shawe-Taylor
 - given: Cristina
   family: Tirnauca
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Second Workshop on Applications of Pattern Analysis
     Held in CIEM, Castro Urdiales, Spain on 19-21 October 2011
@@ -47,7 +45,7 @@ description: |
 date_str: 19--21 Oct
 url: http://proceedings.mlr.press
 baseurl: "/v17"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -59,6 +57,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -74,3 +73,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v17.bib
+---
