@@ -2,7 +2,7 @@
 booktitle: Proceedings of the Second Workshop on Applications of Pattern Analysis
 publisher: JMLR Workshop and Conference Proceedings
 month: 0
-logoright: basic_files/logo.png
+logo: logo.png
 volume: 17
 year: '2011'
 start: 2011-10-19
@@ -16,7 +16,7 @@ sections:
   title: Accepted Papers
 layout: proceedings
 series: Proceedings of Machine Learning Research
-id: FIXME-YYYY
+id: WAPA2011
 cycles: false
 editor:
 - given: Tom
@@ -68,6 +68,7 @@ conference:
   - 2011-10-19
   - 2011-10-20
   - 2011-10-21
+  number: 2
 analytics:
   google:
     tracking_id: UA-92432422-1
